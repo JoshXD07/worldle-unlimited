@@ -1,6 +1,6 @@
 {
   "short_name": "Worldle",
-  "name": "Wordle game in the World",
+  "name": "Similar to wordle but country outlines instead :)",
   "icons": [
     {
       "src": "favicon.ico",
